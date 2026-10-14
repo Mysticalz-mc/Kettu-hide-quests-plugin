@@ -1,0 +1,1 @@
+# Kettu-hide-quests-plugin
