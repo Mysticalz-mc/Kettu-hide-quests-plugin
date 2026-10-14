@@ -1,0 +1,12 @@
+{
+  "name": "Hide Quest Popups",
+  "description": "Hides the mobile quest dock above your user panel. Experimental compatibility.",
+  "authors": [
+    {
+      "name": "Nova"
+    }
+  ],
+  "main": "index.js",
+  "version": "0.1.0",
+  "hash": "58bf033537d7522378177eee8a4a6280d9f813f1dd6aada9531360be47c69138"
+}
